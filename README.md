@@ -1,2 +1,2 @@
-# New Prokect 
-This project is crested from local system.
+# New Project
+This project is created from local system.
